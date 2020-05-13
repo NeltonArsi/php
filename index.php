@@ -1,7 +1,7 @@
 <?php
-  
-  echo "Olá Mundo ANTIGO!"
 
-  echo "Ei NELTON"
+  echo "Olá mundo novo!"
 
+  echo "Olá N@rsi!"
+    
 ?>
